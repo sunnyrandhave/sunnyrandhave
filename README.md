@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dhiraj Salunke and I'm a 🖼️ software Developer, from Pune</p>
+<p align="left">My Name is Sunny Randhave and I'm a 🖼️ software Developer, from Pune</p>
 
 ###
 
@@ -54,7 +54,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/dhiraj-salunke-17293a2a4/">
+  <a href="https://www.linkedin.com/in/sunny-randhave/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
