@@ -12,11 +12,29 @@
 
 🚀 What I Do
 
-🌱 Currently learning Java Spring Boot, Angular, Node.js, and Next.js
+🌱 Currently learning Java Spring Boot, Angular
 
 📱 Exploring Android Development (Java, Groovy)
 
-🗄️ Working with MySQL & REST APIs</p2>
+🗄️ Working with MySQL & REST APIs
+
+💡 Interests
+
+Full-Stack Development
+
+Data Structures & Algorithms
+
+Cloud & DevOps basics
+
+Open Source Contributions
+
+
+📫 Connect With Me
+
+
+📧 Email: sunnyrandhave754@gmail.com
+
+</p2>
 
 ###
 
