@@ -82,7 +82,7 @@ Open Source Contributions
 
 <div align="left">
   <a href="https://leetcode.com/u/sunny754/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="52" height="40" alt="leetcode logo"  />
   </a>
 </div>
 
