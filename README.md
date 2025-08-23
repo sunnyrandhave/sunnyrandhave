@@ -75,13 +75,13 @@ Open Source Contributions
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sunny-randhave/">
+  <a href="https://www.linkedin.com/in/sunny-randhave/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
 <div align="left">
-  <a href="https://leetcode.com/u/sunny754/">
+  <a href="https://leetcode.com/u/sunny754/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="52" height="40" alt="leetcode logo"  />
   </a>
 </div>
