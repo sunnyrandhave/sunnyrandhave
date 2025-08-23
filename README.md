@@ -7,6 +7,16 @@
 ###
 
 <h2 align="left">About me</h2>
+<p2>👋 Hi, I’m Sam
+💻 A passionate Software Engineer Student who loves building projects, learning new technologies, and solving real-world problems with code.
+
+🚀 What I Do
+
+🌱 Currently learning Java Spring Boot, Angular, Node.js, and Next.js
+
+📱 Exploring Android Development (Java, Groovy)
+
+🗄️ Working with MySQL & REST APIs</p2>
 
 ###
 
