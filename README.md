@@ -18,7 +18,7 @@
 
 🗄️ Working with MySQL & REST APIs
 
-💡 Interests
+<h2>💡 Interests </h2>
 
 Full-Stack Development
 
@@ -29,7 +29,7 @@ Cloud & DevOps basics
 Open Source Contributions
 
 
-📫 Connect With Me
+<h2>📫 Connect With Me </h2>
 
 
 📧 Email: sunnyrandhave754@gmail.com
