@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
-<p2>👋 Hi, I’m Sam
+<p2>👋 Hi, I’m Sunny
 💻 A passionate Software Engineer Student who loves building projects, learning new technologies, and solving real-world problems with code.
 
 🚀 What I Do
